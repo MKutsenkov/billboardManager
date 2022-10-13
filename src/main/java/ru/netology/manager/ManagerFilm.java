@@ -45,25 +45,6 @@ public class ManagerFilm {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //    private PurchaseFilm[] films = new PurchaseFilm[0];
 //
 //    public void save(PurchaseFilm) {
